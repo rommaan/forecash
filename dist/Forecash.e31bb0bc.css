@@ -1,0 +1,877 @@
+.company-logo {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  min-width: 198px;
+  mix-blend-mode: normal;
+}
+.i5146650531 {
+  color: var(--black);
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  height: 48px;
+  left: 13px;
+  letter-spacing: 0.20px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 50px;
+}
+.overlap-group1 {
+  height: 48px;
+  position: relative;
+  width: 200px;
+}
+.text-51 {
+  color: #3c63b0;
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: 32px;
+  left: 0;
+  letter-spacing: 0.20px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 8px;
+  white-space: nowrap;
+  width: 200px;
+}
+
+.about-i505324146 {
+  height: 18px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-left: 45px;
+  min-height: 18px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.links {
+  align-items: flex-start;
+  display: flex;
+  margin-bottom: 1.0px;
+  margin-left: 202px;
+  min-width: 436px;
+}
+.text-47 {
+  height: 18px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  min-height: 18px;
+  min-width: 51px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.text-48 {
+  height: 18px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-left: 41px;
+  min-height: 18px;
+  min-width: 66px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.text-49 {
+  height: 18px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-left: 26px;
+  min-height: 18px;
+  min-width: 81px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.text-50 {
+  height: 18px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-left: 20px;
+  min-height: 18px;
+  min-width: 48px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+
+.icon-outlined-a-notification-on {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 20px;
+  margin-bottom: 1.0px;
+  margin-left: 205px;
+  mix-blend-mode: normal;
+  padding: 0.6px 0;
+  width: 20px;
+}
+.vector {
+  height: 3px;
+  margin-right: 0;
+  margin-top: 1px;
+  width: 5px;
+}
+.vector-1 {
+  height: 14px;
+  width: 17px;
+}
+
+.icon-outlined-a-n-main-settings {
+  align-items: flex-start;
+  display: flex;
+  margin-bottom: 1.0px;
+  margin-left: 20px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  width: 20px;
+}
+.overlap-group {
+  height: 20px;
+  margin-top: 0;
+  position: relative;
+  width: 20px;
+}
+.vector-2 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+.vector-3 {
+  height: 7px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 7px;
+}
+
+.icon-outlined-o-her-person-user {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 24px;
+  mix-blend-mode: normal;
+  padding: 2px 0;
+  width: 24px;
+}
+.vector-4 {
+  height: 10px;
+  width: 10px;
+}
+.vector-5 {
+  height: 8px;
+  margin-top: 2px;
+  width: 18px;
+}
+
+.avatar {
+  align-items: center;
+  align-self: flex-start;
+  background-color: #f4f5f4;
+  border-radius: 24px;
+  display: flex;
+  height: 48px;
+  margin-left: 24px;
+  min-width: 48px;
+  mix-blend-mode: normal;
+  padding: 0 12px;
+  position: relative;
+}
+
+.light-logo-left-r-2-icons-right {
+  align-items: flex-start;
+  display: flex;
+  height: 65px;
+  justify-content: center;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+}
+.overlap-group3 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid #e2e5e6;
+  display: flex;
+  height: 67px;
+  margin-top: -1px;
+  min-width: 1442px;
+  padding: 9px 102px;
+  position: relative;
+}
+
+.daily-spend {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 153px;
+  mix-blend-mode: normal;
+  width: 436px;
+}
+.daily-spend-amount-i51 {
+  height: 18px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-left: 1px;
+  min-height: 18px;
+  min-width: 292px;
+  mix-blend-mode: normal;
+  text-align: center;
+  white-space: nowrap;
+  width: 292px;
+}
+.name {
+  height: 47px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  min-height: 47px;
+  min-width: 438px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 438px;
+}
+.price {
+  height: 18px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  min-height: 18px;
+  min-width: 31px;
+  mix-blend-mode: normal;
+  text-align: center;
+  white-space: nowrap;
+}
+.us-dand-daily-spend-amount {
+  align-items: center;
+  display: flex;
+  height: 97px;
+  justify-content: flex-end;
+  margin-top: 9px;
+  min-width: 436px;
+  padding: 0 55px;
+}
+
+.heading {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 14px;
+  min-width: 460px;
+  mix-blend-mode: normal;
+}
+.text-1 {
+  height: 36px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-left: 3px;
+  min-height: 36px;
+  min-width: 102px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 102px;
+}
+.text-17 {
+  height: 36px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-left: 3px;
+  min-height: 36px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 86px;
+}
+.text-20 {
+  height: 36px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  min-height: 36px;
+  min-width: 146px;
+  mix-blend-mode: normal;
+  width: 146px;
+}
+
+.junk-sales-amount-difference.salary-amount-budgeted {
+  height: 36px;
+  margin-left: 5px;
+  position: relative;
+}
+.overlap-group2 {
+  height: 36px;
+  position: relative;
+  width: 72px;
+}
+.price-1 {
+  height: 36px;
+  left: 0;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 32px;
+}
+.salary-amount-budgeted {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 3px;
+  min-width: 100px;
+  mix-blend-mode: normal;
+}
+.salary-amount-budgeted-1 {
+  height: 36px;
+  left: 30px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+.salary-amount-difference.salary-amount-budgeted {
+  height: 36px;
+  margin-left: 5px;
+  mix-blend-mode: unset;
+  position: relative;
+}
+
+.junk-sales-amount-actual.salary-amount-actual {
+  height: 36px;
+  position: relative;
+}
+.overlap-group1-1 {
+  height: 36px;
+  position: relative;
+  width: 72px;
+}
+.price-2 {
+  height: 36px;
+  left: 0;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 32px;
+}
+.salary-amount-actual {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 5px;
+  min-width: 100px;
+  mix-blend-mode: normal;
+}
+.salary-amount-actual-nu {
+  height: 36px;
+  left: 30px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+
+.salary {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 14px;
+  min-width: 460px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+.text-22 {
+  height: 36px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  min-height: 36px;
+  min-width: 146px;
+  mix-blend-mode: normal;
+  width: 146px;
+}
+
+.junk-sales-amount-budge {
+  height: 36px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  min-height: 36px;
+  mix-blend-mode: normal;
+  width: 72px;
+}
+.junk-sales-amount-budgeted {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 3px;
+  min-width: 100px;
+  mix-blend-mode: normal;
+}
+.price-3 {
+  height: 36px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  min-height: 36px;
+  min-width: 32px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 32px;
+}
+
+.junk-sales {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 14px;
+  min-width: 460px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+.refunds.junk-sales {
+  height: 36px;
+}
+.text-23 {
+  height: 36px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  min-height: 36px;
+  min-width: 146px;
+  mix-blend-mode: normal;
+  width: 146px;
+}
+
+.revenue {
+  align-items: flex-start;
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 14px;
+  min-height: 178px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 460px;
+}
+.text-21 {
+  height: 28px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  min-height: 28px;
+  min-width: 462px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 462px;
+}
+
+.autopay-amount-budgete {
+  height: 36px;
+  left: 30px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+.autopay-amount-budgeted {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 3px;
+  min-width: 100px;
+  mix-blend-mode: normal;
+}
+.autopay-amount-difference.autopay-amount-budgeted {
+  height: 36px;
+  margin-left: 5px;
+  position: relative;
+}
+.overlap-group2-1 {
+  height: 36px;
+  position: relative;
+  width: 102px;
+}
+.price-4 {
+  height: 36px;
+  left: 0;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 32px;
+}
+
+.autopay-amount-actual {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 5px;
+  min-width: 100px;
+  mix-blend-mode: normal;
+}
+.autopay-amount-actual-n {
+  height: 36px;
+  left: 30px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+.overlap-group1-2 {
+  height: 36px;
+  position: relative;
+  width: 102px;
+}
+.price-5 {
+  height: 36px;
+  left: 0;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 32px;
+}
+
+.autopay {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 14px;
+  min-width: 460px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+.fees.autopay {
+  height: 36px;
+}
+.periodic-payments.autopay {
+  height: 36px;
+}
+.remainder.autopay {
+  height: 36px;
+}
+.text-26 {
+  height: 36px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  min-height: 36px;
+  min-width: 146px;
+  mix-blend-mode: normal;
+  width: 146px;
+}
+.variable-spending.autopay {
+  height: 36px;
+}
+
+.expenses {
+  align-items: flex-start;
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 14px;
+  min-height: 228px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 460px;
+}
+.text-25 {
+  height: 28px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  min-height: 28px;
+  min-width: 462px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 462px;
+}
+
+.remainder-1 {
+  align-items: flex-start;
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 14px;
+  min-height: 78px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 460px;
+}
+.text-30 {
+  height: 28px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  min-height: 28px;
+  min-width: 462px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 462px;
+}
+
+.payperiod-current {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  min-height: 849px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  padding: 14px 0;
+  position: relative;
+  width: 470px;
+}
+.payperiod-current-1.payperiod-current {
+  margin-left: 8px;
+}
+.payperiod-current-1::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+.payperiod-current::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.icon-outlined-b-d-logo-facebook {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-left: 46px;
+  margin-top: 4.0px;
+  mix-blend-mode: normal;
+  padding: 0 5px;
+  width: 24px;
+}
+.vector-6 {
+  height: 22px;
+  width: 13px;
+}
+
+.icon-outlined-b-nd-logo-twitter {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  margin-left: 16px;
+  margin-top: 4.0px;
+  mix-blend-mode: normal;
+  padding: 1.7px 0;
+  width: 24px;
+}
+.vector-7 {
+  height: 20px;
+  width: 24px;
+}
+
+.flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 1px;
+  min-width: 22px;
+}
+.icon-outlined-b-d-logo-linkedin {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 24px;
+  margin-left: 16px;
+  margin-top: 4.0px;
+  mix-blend-mode: normal;
+  padding: 1px 0;
+  width: 24px;
+}
+.vector-10 {
+  height: 6px;
+  margin-left: 1px;
+  width: 6px;
+}
+.vector-8 {
+  height: 14px;
+  width: 6px;
+}
+.vector-9 {
+  height: 15px;
+  margin-left: 2px;
+  width: 14px;
+}
+
+.footer {
+  align-items: center;
+  background-color: var(--cape-cod);
+  display: flex;
+  height: 88px;
+  justify-content: flex-end;
+  margin-top: 12px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  padding: 22px 25px;
+  position: relative;
+}
+.icon {
+  align-self: flex-start;
+  height: 40px;
+  margin-left: 96px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 40px;
+}
+.place {
+  height: 18px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-left: 30px;
+  min-height: 18px;
+  min-width: 39px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.privacy-policy {
+  height: 18px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-left: 518px;
+  min-height: 18px;
+  min-width: 96px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.terms-of-service {
+  height: 18px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-left: 30px;
+  min-height: 18px;
+  min-width: 114px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.text-1-1 {
+  color: var(--white);
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: 32px;
+  letter-spacing: 0.20px;
+  line-height: 32px;
+  min-height: 32px;
+  min-width: 194px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+  width: 194px;
+}
+
+.desktop-1 {
+  align-items: center;
+  background-color: #578d5c;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 1440px;
+}
+.flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 849px;
+  margin-top: 10px;
+  min-width: 1426px;
+  position: relative;
+}
+
+:root {
+  --apple: #27b045;
+  --black: #000000;
+  --cape-cod: #373f41;
+  --white: #ffffff;
+
+  --font-size-l: 18px;
+  --font-size-m: 14px;
+  --font-size-xl: 24px;
+  --font-size-xxl: 48px;
+
+  --font-family-lato-bold: "Lato-Bold", Helvetica;
+  --font-family-mulish-regular: "Mulish-Regular", Helvetica;
+  --font-family-mulish-semibold: "Mulish-SemiBold", Helvetica;
+}
+.mulish-semi-bold-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-mulish-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+.mulish-regular-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-mulish-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.mulish-semi-bold-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-mulish-semibold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+.mulish-semi-bold-apple-48px {
+  color: var(--apple);
+  font-family: var(--font-family-mulish-semibold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+}
+.mulish-semi-bold-cape-cod-14px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-mulish-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+.mulish-semi-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-mulish-semibold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+.mulish-semi-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-mulish-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+.border-1px-black {
+  border: 1px solid var(--black);
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+  box-sizing: border-box;
+}
+.container-center-horizontal {
+  pointer-events: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+/*# sourceMappingURL=/Forecash.e31bb0bc.css.map */

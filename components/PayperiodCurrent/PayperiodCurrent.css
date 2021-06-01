@@ -1,0 +1,24 @@
+.payperiod-current {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  min-height: 849px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  padding: 14px 0;
+  position: relative;
+  width: 470px;
+}
+.payperiod-current-1.payperiod-current {
+  margin-left: 8px;
+}
+.payperiod-current-1::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+.payperiod-current::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}

@@ -1,0 +1,21 @@
+.icon-outlined-a-notification-on {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 20px;
+  margin-bottom: 1.0px;
+  margin-left: 205px;
+  mix-blend-mode: normal;
+  padding: 0.6px 0;
+  width: 20px;
+}
+.vector {
+  height: 3px;
+  margin-right: 0;
+  margin-top: 1px;
+  width: 5px;
+}
+.vector-1 {
+  height: 14px;
+  width: 17px;
+}

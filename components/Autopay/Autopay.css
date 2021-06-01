@@ -1,0 +1,29 @@
+.autopay {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 14px;
+  min-width: 460px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+.fees.autopay {
+  height: 36px;
+}
+.periodic-payments.autopay {
+  height: 36px;
+}
+.remainder.autopay {
+  height: 36px;
+}
+.text-26 {
+  height: 36px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  min-height: 36px;
+  min-width: 146px;
+  mix-blend-mode: normal;
+  width: 146px;
+}
+.variable-spending.autopay {
+  height: 36px;
+}

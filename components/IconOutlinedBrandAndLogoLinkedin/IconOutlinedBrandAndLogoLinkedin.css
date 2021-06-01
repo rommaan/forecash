@@ -1,0 +1,31 @@
+.flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 1px;
+  min-width: 22px;
+}
+.icon-outlined-b-d-logo-linkedin {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 24px;
+  margin-left: 16px;
+  margin-top: 4.0px;
+  mix-blend-mode: normal;
+  padding: 1px 0;
+  width: 24px;
+}
+.vector-10 {
+  height: 6px;
+  margin-left: 1px;
+  width: 6px;
+}
+.vector-8 {
+  height: 14px;
+  width: 6px;
+}
+.vector-9 {
+  height: 15px;
+  margin-left: 2px;
+  width: 14px;
+}

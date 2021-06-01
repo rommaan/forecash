@@ -1,0 +1,64 @@
+.footer {
+  align-items: center;
+  background-color: var(--cape-cod);
+  display: flex;
+  height: 88px;
+  justify-content: flex-end;
+  margin-top: 12px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  padding: 22px 25px;
+  position: relative;
+}
+.icon {
+  align-self: flex-start;
+  height: 40px;
+  margin-left: 96px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 40px;
+}
+.place {
+  height: 18px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-left: 30px;
+  min-height: 18px;
+  min-width: 39px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.privacy-policy {
+  height: 18px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-left: 518px;
+  min-height: 18px;
+  min-width: 96px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.terms-of-service {
+  height: 18px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-left: 30px;
+  min-height: 18px;
+  min-width: 114px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.text-1-1 {
+  color: var(--white);
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: 32px;
+  letter-spacing: 0.20px;
+  line-height: 32px;
+  min-height: 32px;
+  min-width: 194px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+  width: 194px;
+}

@@ -1,0 +1,67 @@
+:root {
+  --apple: #27b045;
+  --black: #000000;
+  --cape-cod: #373f41;
+  --white: #ffffff;
+
+  --font-size-l: 18px;
+  --font-size-m: 14px;
+  --font-size-xl: 24px;
+  --font-size-xxl: 48px;
+
+  --font-family-lato-bold: "Lato-Bold", Helvetica;
+  --font-family-mulish-regular: "Mulish-Regular", Helvetica;
+  --font-family-mulish-semibold: "Mulish-SemiBold", Helvetica;
+}
+.mulish-semi-bold-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-mulish-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+.mulish-regular-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-mulish-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.mulish-semi-bold-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-mulish-semibold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+.mulish-semi-bold-apple-48px {
+  color: var(--apple);
+  font-family: var(--font-family-mulish-semibold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+}
+.mulish-semi-bold-cape-cod-14px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-mulish-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+.mulish-semi-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-mulish-semibold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+.mulish-semi-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-mulish-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+.border-1px-black {
+  border: 1px solid var(--black);
+}

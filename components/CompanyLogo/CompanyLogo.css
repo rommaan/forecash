@@ -1,0 +1,43 @@
+.company-logo {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  min-width: 198px;
+  mix-blend-mode: normal;
+}
+.i5146650531 {
+  color: var(--black);
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  height: 48px;
+  left: 13px;
+  letter-spacing: 0.20px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 50px;
+}
+.overlap-group1 {
+  height: 48px;
+  position: relative;
+  width: 200px;
+}
+.text-51 {
+  color: #3c63b0;
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: 32px;
+  left: 0;
+  letter-spacing: 0.20px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 8px;
+  white-space: nowrap;
+  width: 200px;
+}

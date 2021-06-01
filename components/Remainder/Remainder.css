@@ -1,0 +1,21 @@
+.remainder-1 {
+  align-items: flex-start;
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 14px;
+  min-height: 78px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 460px;
+}
+.text-30 {
+  height: 28px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  min-height: 28px;
+  min-width: 462px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 462px;
+}

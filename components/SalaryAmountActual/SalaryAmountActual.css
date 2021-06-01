@@ -1,0 +1,37 @@
+.junk-sales-amount-actual.salary-amount-actual {
+  height: 36px;
+  position: relative;
+}
+.overlap-group1-1 {
+  height: 36px;
+  position: relative;
+  width: 72px;
+}
+.price-2 {
+  height: 36px;
+  left: 0;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 32px;
+}
+.salary-amount-actual {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 5px;
+  min-width: 100px;
+  mix-blend-mode: normal;
+}
+.salary-amount-actual-nu {
+  height: 36px;
+  left: 30px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}

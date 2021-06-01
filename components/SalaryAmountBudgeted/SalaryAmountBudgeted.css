@@ -1,0 +1,44 @@
+.junk-sales-amount-difference.salary-amount-budgeted {
+  height: 36px;
+  margin-left: 5px;
+  position: relative;
+}
+.overlap-group2 {
+  height: 36px;
+  position: relative;
+  width: 72px;
+}
+.price-1 {
+  height: 36px;
+  left: 0;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 32px;
+}
+.salary-amount-budgeted {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 3px;
+  min-width: 100px;
+  mix-blend-mode: normal;
+}
+.salary-amount-budgeted-1 {
+  height: 36px;
+  left: 30px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+.salary-amount-difference.salary-amount-budgeted {
+  height: 36px;
+  margin-left: 5px;
+  mix-blend-mode: unset;
+  position: relative;
+}

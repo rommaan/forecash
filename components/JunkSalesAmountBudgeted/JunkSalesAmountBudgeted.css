@@ -1,0 +1,25 @@
+.junk-sales-amount-budge {
+  height: 36px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  min-height: 36px;
+  mix-blend-mode: normal;
+  width: 72px;
+}
+.junk-sales-amount-budgeted {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 3px;
+  min-width: 100px;
+  mix-blend-mode: normal;
+}
+.price-3 {
+  height: 36px;
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  min-height: 36px;
+  min-width: 32px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 32px;
+}

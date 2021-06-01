@@ -1,0 +1,19 @@
+.light-logo-left-r-2-icons-right {
+  align-items: flex-start;
+  display: flex;
+  height: 65px;
+  justify-content: center;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+}
+.overlap-group3 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid #e2e5e6;
+  display: flex;
+  height: 67px;
+  margin-top: -1px;
+  min-width: 1442px;
+  padding: 9px 102px;
+  position: relative;
+}
